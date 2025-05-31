@@ -4,6 +4,15 @@
 
 ## Responsive visualizer built using React for popular algorithms
 ---
+### Preview
+
+Here are some screenshots of the Sorting Visualizer:
+
+![Image](https://github.com/user-attachments/assets/1d3d275b-7c24-4f1d-81bb-eed7d8c1920c)
+
+![Image](https://github.com/user-attachments/assets/95c8f881-92d7-42ed-b6f9-721d8fea2ad0)
+
+---
 
 ### This repo is an attempt to help in learning popular sorting algorithms by visualization
 
